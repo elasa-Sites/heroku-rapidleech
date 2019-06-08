@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": "~5.6",
+        "ext-PDO": "*",
+        "ext-pdo_mysql": "*",
+        "ext-mysqli": "*",
+        "ext-xml": "*",
+        "ext-json": "*",
+        "ext-openssl": "*",
+        "ext-curl": "*",
+        "ext-gd": "*",
+        "ext-mbstring": "*"
+    }
+}
