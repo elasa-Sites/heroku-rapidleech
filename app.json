@@ -3,6 +3,6 @@
 	"description": "Deploy your favorite CMS on Heroku using our Drupal buildpack.",
 	"repository": "https://github.com/elasa-Sites/heroku-rapidleech",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
-	"keywords": ["drupal", "heroku", "php", "postgresql", "apache", "apache2", "nginx"],
+	"keywords": ["leech", "heroku", "php", "postgresql", "apache", "apache2"],
 	"addons": ["heroku-postgresql:hobby-dev","newrelic:wayne","sendgrid:starter"]
 }
