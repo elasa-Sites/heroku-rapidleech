@@ -4,5 +4,5 @@
 	"repository": "https://github.com/elasa-Sites/heroku-rapidleech",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
 	"keywords": ["leech", "heroku", "php", "postgresql", "apache", "apache2"],
-	"addons": ["heroku-postgresql:hobby-dev","newrelic:wayne"]
+	"addons": ["heroku-postgresql:hobby-dev"]
 }
