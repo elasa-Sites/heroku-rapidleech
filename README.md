@@ -21,6 +21,21 @@ For end-users, you may search on our forum for readily available installed scrip
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+or :
+
+
+## Installation
+
+Use the Deploy to Heroku button, or use the old fashioned way described below.
+
+[Use Crypt  type for htpasswd Generator is here.](https://macminiosx.github.io/passwd-generator/)
+
+<a href="https://heroku.com/deploy?template=https://github.com/elasa-Sites/heroku-rapidleech/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy">
+</a>
+
+
+
 ##  Or do this in remote server like https://codeanywhere.com/editor/
 
 ```
